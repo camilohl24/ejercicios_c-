@@ -2,4 +2,8 @@
   <Folder Name="/02/">
     <Project Path="NumberOld/NumberOld.csproj" />
   </Folder>
+  <Folder Name="/03/">
+    <Project Path="SortNumber/SortNumber.csproj" Id="fe07a96f-308d-42e7-ad1e-a4532758774f" />
+  </Folder>
+  <Project Path="Shared/Shared.csproj" Id="0abc2a38-3310-4175-8f29-8fd04dd7ac46" />
 </Solution>
