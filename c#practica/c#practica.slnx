@@ -8,5 +8,8 @@
   <Folder Name="/04/">
     <Project Path="isMultipleOfAnother/isMultipleOfAnother.csproj" Id="b0de60e6-07e2-45b9-9861-dd1d87737a1a" />
   </Folder>
+  <Folder Name="/05/">
+    <Project Path="IsLeapYear/IsLeapYear.csproj" Id="d6b81cd8-5b29-431e-b271-e28e353fa4cf" />
+  </Folder>
   <Project Path="Shared/Shared.csproj" Id="0abc2a38-3310-4175-8f29-8fd04dd7ac46" />
 </Solution>
